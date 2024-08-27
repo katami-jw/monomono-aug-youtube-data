@@ -1,19 +1,11 @@
-# 🎈 Blank app template
+## ささっと手軽にアプリを作成！PythonとStreamlitでデータ分析ダッシュボード開発ハンズオン
 
-A simple Streamlit app template for you to modify!
+### 本イベントについて
+イベント詳細
+https://jellyware.connpass.com/event/327150/
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
-### How to run it on your own machine
+### Streamlitについて
+API reference
+https://docs.streamlit.io/develop/api-reference
 
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
