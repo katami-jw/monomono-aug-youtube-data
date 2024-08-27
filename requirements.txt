@@ -2,3 +2,4 @@ streamlit
 janome
 pandas
 numpy
+matplotlib
